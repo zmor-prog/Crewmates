@@ -1,4 +1,4 @@
-# Web Development Project 7 - *Cremates*
+# Web Development Project 7 - *Crewmates*
 
 Submitted by: **Zamirah Morgan**
 
